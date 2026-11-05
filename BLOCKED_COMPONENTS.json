@@ -1,4 +1,15 @@
 {
   "release": "RL-2026.11",
-  "blocked": []
+  "blocked": [
+    {
+      "name": "BLOOM Compact",
+      "spdx": "BigScience-BLOOM-RAIL-1.0",
+      "reason": "restricted-license"
+    },
+    {
+      "name": "Ferrite Parser",
+      "spdx": "GPL-3.0-only",
+      "reason": "restricted-license"
+    }
+  ]
 }
