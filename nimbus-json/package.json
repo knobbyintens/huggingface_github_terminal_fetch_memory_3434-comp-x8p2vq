@@ -1,0 +1,8 @@
+{
+  "name": "nimbus-json",
+  "version": "2.4.3",
+  "license": "MIT",
+  "holder": "Nimbus Foundation",
+  "source": "https://example.invalid/nimbus/json",
+  "description": "Streaming JSON encoder and decoder."
+}

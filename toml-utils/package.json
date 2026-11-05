@@ -1,0 +1,8 @@
+{
+  "name": "toml-utils",
+  "version": "1.4.0",
+  "license": "BSD-3-Clause",
+  "holder": "Toml Collective",
+  "source": "https://example.invalid/toml/utils",
+  "description": "TOML reader/writer helpers."
+}

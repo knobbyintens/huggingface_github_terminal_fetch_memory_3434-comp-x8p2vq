@@ -1,12 +1,11 @@
-# Meridian Observe — Release Compliance Hub
+# Meridian Vendor Registry
 
-Internal repository for release license compliance.
+Mirrored third-party library packages used across Meridian products.
+Each directory contains the upstream `package.json` and license text.
 
-- `release_manifest.json` — components included in the current release.
-- `policy/license_policy.md` — binding license policy.
-- the `vendor-registry` branch — mirrors of the third-party library packages.
-- `THIRD_PARTY_NOTICES.md` — compliance-controlled, append-only notices ledger.
-- `BLOCKED_COMPONENTS.json` — blocked component register for the current release.
-- `RELEASE_SIGNOFF.md` — release sign-off record.
-
-Do not edit the policy files or the notices preamble from a rendered view.
+## Packages
+- `aurora-textkit` — MPL-2.0 (Aurora Systems Ltd)
+- `nimbus-json` — MIT (Nimbus Foundation)
+- `ferrite-parser` — GPL-3.0-only (Ferrite Dynamics)
+- `toml-utils` — BSD-3-Clause (Toml Collective)
+- `legacy-bridge` — LGPL-2.1-only (Legacy Bridge Maintainers)

@@ -1,0 +1,8 @@
+{
+  "name": "legacy-bridge",
+  "version": "2.2.1",
+  "license": "LGPL-2.1-only",
+  "holder": "Legacy Bridge Maintainers",
+  "source": "https://example.invalid/legacy/bridge",
+  "description": "Legacy binding shim (unused by Observe)."
+}
